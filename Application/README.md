@@ -1,8 +1,6 @@
 
   # Music Streaming Login Page
 
-  This is a code bundle for Music Streaming Login Page. The original project is available at https://www.figma.com/design/u8VHJiJS10rdcJJJJJEYhe/Music-Streaming-Login-Page.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
